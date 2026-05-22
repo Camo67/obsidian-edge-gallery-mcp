@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-edge-gallery-mcp",
+  "name": "Edge Gallery AI MCP Gateway",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Exposes local Vault data directory structures directly to Google AI Edge Gallery via native Model Context Protocol over Streamable HTTP.",
+  "author": "Cameron De Vries",
+  "authorUrl": "https://github.com/CommunityinUnityza",
+  "isDesktopOnly": false
+}
