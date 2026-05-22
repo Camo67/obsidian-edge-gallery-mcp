@@ -1,0 +1,14 @@
+{
+  "name": "obsidian-edge-gallery-mcp",
+  "version": "1.0.0",
+  "description": "Native Obsidian MCP server tracking loopback interfaces for Edge Gallery.",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "obsidian": "latest",
+    "typescript": "^5.0.0"
+  }
+}
